@@ -1,4 +1,11 @@
-### Hi there 👋
+# Harrison Barker
+
+```javascript
+(true == 1) true
+(true === 1) false
+```
+
+<hr>	
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrharrisonbarker.mrharrisonbarker) -->
 
@@ -6,31 +13,32 @@
 
 
 <div style="display:flex">
-  <a><img width=30 src="./assets/csharp.svg"></a>
-  <img width=30 style="margin-right:1rem" src="./assets/typescript.svg">
-  <img width=30 style="margin-right:1rem" src="./assets/javascript.svg"> 
-  <img width=30 style="margin-right:1rem" src="./assets/c.svg">
+  <img width=30 style="margin-right:0.5rem" src="./assets/csharp.svg">
+  <img width=30 style="margin-right:0.5rem" src="./assets/typescript.svg">
+  <img width=30 style="margin-right:0.5rem" src="./assets/javascript.svg"> 
+  <img width=30 style="margin-right:0.5rem" src="./assets/c.svg">
 </div>
 
 ### Frameworks
 
 <div style="display:flex">
-  <img width=30 src="./assets/dot-net.svg">
-  <img width=30 src="./assets/angular.svg">
+  <img width=30 style="margin-right:0.5rem" src="./assets/dot-net.svg">
+  <img width=30 style="margin-right:0.5rem" src="./assets/angular.svg">
 </div>
 
 ### Tools
 
 <div style="display:flex">
-  <img width=30 style="margin-right:1rem" src="./assets/nginx.svg">
-  <img width=30 src="./assets/arduino.svg">
-  <img width=30 src="./assets/azuredevops.svg">
-  <img width=30 src="./assets/microsoftazure.svg">
-  <img width=30 src="./assets/mysql.svg">
-  <img width=30 src="./assets/git.svg">
+  <img width=30 style="margin-right:0.5rem" style="margin-right:1rem" src="./assets/nginx.svg">
+  <img width=30 style="margin-right:0.5rem" src="./assets/arduino.svg">
+  <img width=30 style="margin-right:0.5rem" src="./assets/azuredevops.svg">
+  <img width=30 style="margin-right:0.5rem" src="./assets/microsoftazure.svg">
+  <img width=30 style="margin-right:0.5rem" src="./assets/mysql.svg">
+  <img width=30 style="margin-right:0.5rem" src="./assets/git.svg">
 </div>
 
-<div style="display:flex;justify-content:between">
+<hr>
+<!--<div style="display:flex;justify-content:between">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -45,7 +53,7 @@
 
 <img src="https://img.shields.io/badge/-Swift-fff?&logo=Swift">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=transparent&style=flat">
-<img src="https://img.shields.io/badge/-TypeScript-333?&logo=TypeScript">
+<img src="https://img.shields.io/badge/-TypeScript-333?&logo=TypeScript">-->
 
 
 <div style="display:flex">
