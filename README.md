@@ -2,7 +2,33 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrharrisonbarker.mrharrisonbarker) -->
 
-### Languages and Tools
+### Languages
+
+
+<div style="display:flex">
+  <a><img width=30 src="./assets/csharp.svg"></a>
+  <img width=30 style="margin-right:1rem" src="./assets/typescript.svg">
+  <img width=30 style="margin-right:1rem" src="./assets/javascript.svg"> 
+  <img width=30 style="margin-right:1rem" src="./assets/c.svg">
+</div>
+
+### Frameworks
+
+<div style="display:flex">
+  <img width=30 src="./assets/dot-net.svg">
+  <img width=30 src="./assets/angular.svg">
+</div>
+
+### Tools
+
+<div style="display:flex">
+  <img width=30 style="margin-right:1rem" src="./assets/nginx.svg">
+  <img width=30 src="./assets/arduino.svg">
+  <img width=30 src="./assets/azuredevops.svg">
+  <img width=30 src="./assets/microsoftazure.svg">
+  <img width=30 src="./assets/mysql.svg">
+  <img width=30 src="./assets/git.svg">
+</div>
 
 <div style="display:flex;justify-content:between">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -23,12 +49,8 @@
 
 
 <div style="display:flex">
-<img width=30 src="./assets/javascript.svg">
-<img width=30 src="./assets/typescript.svg">
-<img width=30 src="./assets/csharp.svg">
-<img width=30 src="./assets/dot-net.svg">
-<img width=30 src="./assets/angular.svg">
-<img width=30 src="./assets/nginx.svg">
+
+
 </div>
 
 <!--START_SECTION:waka-->
