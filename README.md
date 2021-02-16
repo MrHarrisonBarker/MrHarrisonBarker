@@ -1,11 +1,6 @@
 # Harrison Barker
 
-```javascript
-(true == 1) true
-(true === 1) false
-```
-
-<hr>	
+languages should be strongly typed	
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrharrisonbarker.mrharrisonbarker) -->
 
