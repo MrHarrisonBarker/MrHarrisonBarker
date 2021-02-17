@@ -59,18 +59,8 @@ languages should be strongly typed
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My Github Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
-> 🏆 72 Contributions in the Year 2021
- > 
-> 📦 115.5 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -106,34 +96,7 @@ Markdown                 1 min               ░░░░░░░░░░░�
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
 PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
-🔥 Editors: 
-Rider                    2 hrs 4 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-All                      1 hr 49 mins        ██████████████████████░░░   88.11% 
-OpenEvent                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-efcore                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
-
-💻 Operating System: 
-Mac                      2 hrs 4 mins        █████████████████████████   100.0%
-
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   32.26% 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
-C#                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/MrHarrisonBarker/MrHarrisonBarker/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
