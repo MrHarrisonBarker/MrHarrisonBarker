@@ -10,6 +10,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [devLog::2 → Ruby is really really meh’](https://mrharrisonbarker.github.io/EmployMe/dev-log-2)
+- [devLog::1 → Compilin’](https://mrharrisonbarker.github.io/EmployMe/dev-Blog-1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
