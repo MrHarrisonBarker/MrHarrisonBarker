@@ -93,10 +93,11 @@ Sunday       66 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XAML                     0 secs              ████████████████████████░   97.95% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
 
 ```
 
 
- Last Updated on 04/09/2021
+ Last Updated on 06/09/2021
 <!--END_SECTION:waka-->
