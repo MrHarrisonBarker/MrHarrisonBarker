@@ -1,18 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harrison</h1>
 <h3 align="center">A strongly-typed, compiled language kinda guy.</h3>
 
-- 📝 I regularly write articles on
-[https://mrharrisonbarker.github.io/EmployMe](https://mrharrisonbarker.github.io/EmployMe)
-
 - 📫 How to reach me **mail@harrisonbarker.co.uk**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/harrisonbarker](https://www.linkedin.com/in/harrisonbarker)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [devLog::2 → Ruby is really really meh’](https://mrharrisonbarker.github.io/EmployMe/dev-log-2)
-- [devLog::1 → Compilin’](https://mrharrisonbarker.github.io/EmployMe/dev-Blog-1)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
